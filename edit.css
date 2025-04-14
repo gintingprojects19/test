@@ -248,6 +248,11 @@ font-family: "Pacifico", cursive;
         width: 60%;
     }
 }
+@media only screen and (max-width: 360px){
+    #footer{
+        margin-top: 200px;
+    }
+}
 
 
 
